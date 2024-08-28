@@ -1,0 +1,15 @@
+1) Hash value for 'example': 295292909
+2) 
+Server listening on port 12345
+Connected to ('127.0.0.1', 55423)
+Received data: Hello, World!
+Received hash from server: 2625924552
+Local hash computed: 2625924552
+Data integrity verified.
+3) 
+MD5 Computation Time: 0.0000 seconds
+MD5 Collisions: 0
+SHA-1 Computation Time: 0.0000 seconds
+SHA-1 Collisions: 0
+SHA-256 Computation Time: 0.0000 seconds
+SHA-256 Collisions: 0
